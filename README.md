@@ -20,6 +20,7 @@ My most recent project in C++.
 
 ### other_stuff
 
+## personal_projects
 
 ## photography
 A collection of my favourite photos.
