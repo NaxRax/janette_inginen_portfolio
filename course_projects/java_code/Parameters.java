@@ -17,6 +17,7 @@ public class Parameters {
         int len =longestparameter.length();
         boolean argsoverten = false;
         boolean argsoverhundred = false;
+        // Luodaan muuttuja c seuraamaan kuinka leveä taulukosta tulee tulostusta varten
         int c = 8;
         if(numberofargs >= 100){
             argsoverhundred = true;
