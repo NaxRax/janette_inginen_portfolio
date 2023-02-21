@@ -1,6 +1,7 @@
 # janette_inginen_portfolio
 Osaamiseni hubi.
 
+## course_projects
 ### carpet_project
 My most recent project in C++.
 
@@ -16,3 +17,7 @@ My most recent project in C++.
 * energiatilasto_projecti
 * friendships_projekti
 * tulitikkupeli_projekti
+
+
+## photography
+A collection of my favourite photos.
