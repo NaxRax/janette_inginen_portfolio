@@ -24,3 +24,6 @@ My most recent project in C++.
 
 ## photography
 A collection of my favourite photos.
+
+
+This repository is not yet finished and doesn't include all my projects just yet but I will be updating it little by little.
