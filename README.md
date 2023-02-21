@@ -2,7 +2,7 @@
 Osaamiseni hubi.
 
 ## course_projects
-#### carpet_project
+### carpet_project
 My most recent project in C++.
 
 ### java_code
