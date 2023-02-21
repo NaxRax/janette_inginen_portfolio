@@ -3,6 +3,7 @@ COMP.CS.100 Ohjelmointi 1 / Programming 1
 
 This program models a character adventuring in a video game,
 or more like, the stuff that the character carries around.
+Check character_b.py for an updated version.
 """
 
 class Character:
