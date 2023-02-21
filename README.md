@@ -12,11 +12,11 @@ My most recent project in C++.
 
 
 ### python_code
-* character_a
-* character_b
-* energiatilasto_projecti
-* friendships_projekti
-* tulitikkupeli_projekti
+* character_a.py
+* character_b.py
+* energiatilasto_projekti.py
+* friendships_projekti.py
+* tulitikkupeli_projekti.py
 
 
 ## photography
