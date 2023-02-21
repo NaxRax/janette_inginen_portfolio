@@ -2,11 +2,17 @@
 Osaamiseni hubi.
 
 ### carpet_project
-Tässä tekstiä.
+My most recent project in C++.
 
 ## java_code
-### data_structures_and_algorithms
-Jotain tekstiä siitä.
+* data_structures_and_algorithms
+* Datetime
+* BimEdit
+
 
 ## python_code
-Jotain tekstiä tähänkin.
+* character_a
+* character_b
+* energiatilasto_projecti
+* friendships_projekti
+* tulitikkupeli_projekti
