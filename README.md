@@ -18,6 +18,8 @@ My most recent project in C++.
 * friendships_projekti.py
 * tulitikkupeli_projekti.py
 
+### other_stuff
+
 
 ## photography
 A collection of my favourite photos.
