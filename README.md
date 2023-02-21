@@ -2,16 +2,16 @@
 Osaamiseni hubi.
 
 ## course_projects
-### carpet_project
+#### carpet_project
 My most recent project in C++.
 
-## java_code
+### java_code
 * data_structures_and_algorithms
 * Datetime
 * BimEdit
 
 
-## python_code
+### python_code
 * character_a
 * character_b
 * energiatilasto_projecti
