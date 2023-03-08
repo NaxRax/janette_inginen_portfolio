@@ -21,6 +21,8 @@ My most recent project in C++.
 ### other_stuff
 
 ## personal_projects
+* pelien_hinnat.xlsx
+* puhe_painikkeet_pvm_analyysi.xlsx
 
 ## photography
 A collection of my favourite photos.
